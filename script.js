@@ -11,9 +11,9 @@ var pet_info = {
 
 var UNDERWEIGHT_WEIGHT = 5;
 var OVERFED_WEIGHT = 16;
-var NORMAL_PUP_IMAGE = "images/pixel-pup.svg";
-var UNDERWEIGHT_PUP_IMAGE = "images/Ozempicpixelpup.svg";
-var OVERFED_PUP_IMAGE = "images/Fat&Bald-pixelpup.svg";
+var NORMAL_PUP_IMAGE = "pixel-pup.svg";
+var UNDERWEIGHT_PUP_IMAGE = "Ozempicpixelpup.svg";
+var OVERFED_PUP_IMAGE = "Fat&Bald-pixelpup.svg";
 
 $(function() {
   // jQuery's .on() method attaches an event handler to an element.
